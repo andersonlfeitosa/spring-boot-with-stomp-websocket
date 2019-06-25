@@ -3,8 +3,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.springframework</groupId>
-    <artifactId>gs-messaging-stomp-websocket</artifactId>
+    <groupId>com.andersonlfeitosa.poc</groupId>
+    <artifactId>spring-boot-with-stomp-websocket</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <parent>
